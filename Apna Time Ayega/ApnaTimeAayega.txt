@@ -1,4 +1,4 @@
-Apna Time Aayega
+﻿Apna Time Aayega
 Uth ja apni raakh se
 Tu udd ja ab talaash mein
 Parwaaz dekh parwane ki
@@ -65,4 +65,4 @@ Tu nanga hi to aaya hai
 Kya ghanta lekar jaayega
 Kya tu ghanta lekar jaayega
 Apna time aayega
-Apna time aayega
+Apna time aayega!
